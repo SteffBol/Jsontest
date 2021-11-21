@@ -3,5 +3,5 @@
   "id": 1,
   "title": "titeltext",
   "Zeitplan": "1.2345",
-  "neuListe": [42, 47, 139]
+  "neuListe": [[1,2], 47, 139]
 }
